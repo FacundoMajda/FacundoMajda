@@ -29,12 +29,11 @@ Hi, I'm faq, a Full Stack Developer 🚀 from Argentina, currently, I'm a studen
 <a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-
+<a src="https://www.w3schools.com/python/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
 
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning Next.js and Nest.js;
 - 🤔 I’m looking for being 3T stack (next, nest, prisma, trpc);
-- 💬 Ask me about anything, I am really happy to help;
+- 💬 Ask me about anything, I am really happy to help;  
 
