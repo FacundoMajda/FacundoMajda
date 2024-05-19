@@ -21,9 +21,6 @@ Hi, I'm faq, a Full Stack Developer 🚀 from Argentina, currently, I'm a studen
 #### 👨🏻‍💻 Currently working on:
 
 <a href="https://nestjs.com/"><img src="https://img.icons8.com/color/48/000000/nestjs.png"/></a>
-<a href="https://typeorm.io/"><img src="https://img.icons8.com/color/48/000000/typeorm.png"/></a>
-<a href="https://swagger.io/"><img src="https://img.icons8.com/color/48/000000/swagger.png"/></a>
-<a href="https://yarnpkg.com/"><img src="https://img.icons8.com/color/48/000000/yarn.png"/></a>
 <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
