@@ -27,10 +27,7 @@ Hi, I'm faq, a Full Stack Developer 🚀 from Argentina, currently, I'm a studen
 <a href="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-<a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<a href="https://www.w3schools.com/python/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+
 
 
 **Talking about Personal Stuffs:**
