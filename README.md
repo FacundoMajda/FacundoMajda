@@ -1,10 +1,10 @@
-### Hey 👋🏽, I'm Faq!
+### Hey 👋🏽, I'm Faq Majda!
 
-> a Full Stack Web Dev
+> fullstack web dev
 
 #### 📍 from: Formosa, Argentina
 
-<a href="https://www.linkedin.com/in/">
+<a href="https://www.linkedin.com/in/facundo-majda-678750252/">
   <img align="left" alt="faq's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -13,7 +13,7 @@
 </a>
 
 
-Hi, I'm faq, a Full Stack Developer 🚀 from Argentina, currently, I'm a student, Freelancer 👨🏽‍💻
+🚀 currently, I'm a student, Freelancer 👨🏽‍💻
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
