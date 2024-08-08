@@ -32,7 +32,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Next.js and Nest.js;
-- 🤔 I’m looking for being 3T stack (next, nest, prisma, trpc);
+- 🌱 In love with Nest.js;
+- 🤔 I’m currently learning Rust ;
 - 💬 Ask me about anything, I am really happy to help;  
 
