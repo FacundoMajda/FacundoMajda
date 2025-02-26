@@ -10,9 +10,6 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-## Introduction
-Fullstack web developer from Formosa, Argentina, currently a student and a freelancer.
-
 ## Technologies Used
 <a href="https://nestjs.com/"><img src="https://img.icons8.com/color/48/000000/nestjs.png"/></a>
 <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
