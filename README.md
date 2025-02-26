@@ -4,21 +4,14 @@
 
 ## 📍 from: Formosa, Argentina
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/facundo-majda-678750252/)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink)](https://www.instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/facundo-majda/)
 
 ## 🚀 Currently, I'm a student, Freelancer 👨🏽‍💻
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Current Projects](#current-projects)
-- [Contact Information](#contact-information)
-
 ## Introduction
-Hey there! I'm Faq Majda, a fullstack web developer from Formosa, Argentina. I'm currently a student and a freelancer. I love working with Nest.js and I'm currently learning Rust. Feel free to ask me anything, I'm always happy to help!
+Fullstack web developer from Formosa, Argentina, currently a student and a freelancer.
 
 ## Technologies Used
 <a href="https://nestjs.com/"><img src="https://img.icons8.com/color/48/000000/nestjs.png"/></a>
@@ -36,14 +29,9 @@ Hey there! I'm Faq Majda, a fullstack web developer from Formosa, Argentina. I'm
 - 🤔 I’m currently learning Rust
 
 ## Contact Information
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/facundo-majda-678750252/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/facundo-majda/)
 
 <img align="left" alt="faq's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 ## Personal Information
 - 🌍 Location: Formosa, Argentina
-- 👨‍💻 Personal photo or avatar: ![Avatar](https://example.com/avatar.png)
-
-## Additional Information
-- 💬 Ask me about anything, I am really happy to help
-
