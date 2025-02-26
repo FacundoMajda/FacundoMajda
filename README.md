@@ -28,10 +28,3 @@ Fullstack web developer from Formosa, Argentina, currently a student and a freel
 - 🌱 In love with Nest.js
 - 🤔 I’m currently learning Rust
 
-## Contact Information
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/facundo-majda/)
-
-<img align="left" alt="faq's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
-## Personal Information
-- 🌍 Location: Formosa, Argentina
