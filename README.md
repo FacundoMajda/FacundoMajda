@@ -1,27 +1,24 @@
-# Hey 👋🏽, I'm Faq Majda!
+# Hey 👋🏽, I'm Facundo Majda
 
-> fullstack web dev
+> Fullstack dev & AI Engineer 
 
-## 📍 from: Formosa, Argentina
+## 📍 Formosa, Argentina
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/facundo-majda/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](http://syllabi.me/facundo_majda_portfolio/)
 
-## 🚀 Currently, I'm a student, Freelancer 👨🏽‍💻
+## 🚀 What I'm doing now
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+Building intelligent systems.
 
-## Technologies Used
-<a href="https://nestjs.com/"><img src="https://img.icons8.com/color/48/000000/nestjs.png"/></a>
-<a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-<a href="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
-<a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-<a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<a href="https://www.w3.org/Style/CSS/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400"/>
 
-## Current Projects
-- 🌱 In love with Nest.js
-- 🤔 I’m currently learning Rust
+## 🛠️ Tech Stack
 
+<a href="https://nestjs.com/"><img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS"/></a>
+<a href="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/></a>
+<a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
+<a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a>
+<a href="https://nextjs.org/"><img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/></a>
+<a href="https://ui.shadcn.com/"><img src="https://ui.shadcn.com/apple-touch-icon.png" width="48" alt="shadcn/ui"/></a>
