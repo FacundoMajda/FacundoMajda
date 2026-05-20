@@ -9,11 +9,11 @@
 
 ## 🚀 What I'm doing now
 
-Learning about intelligent systems.
-Building backend applications.
-Improving programming logic
-Writing clean and maintainable code
-Learning better backend practices
+- Learning about intelligent systems.
+- Building backend applications.
+- Improving programming logic.
+- Writing clean and maintainable code
+- Learning better backend practices
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400"/>
 
