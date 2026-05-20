@@ -26,3 +26,7 @@
 <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a>
 <a href="https://nextjs.org/"><img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/></a>
 <a href="https://ui.shadcn.com/"><img src="https://ui.shadcn.com/apple-touch-icon.png" width="48" alt="shadcn/ui"/></a>
+<a href="https://colab.research.google.com/"><img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab"/></a>
+<a href="https://pytorch.org/"><img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch"/></a>
+<a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" alt="Hugging Face"/></a>
+<a href="https://n8n.io/"><img src="https://avatars.githubusercontent.com/u/45487711?s=48" alt="n8n"/></a>
