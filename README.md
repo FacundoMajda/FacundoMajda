@@ -21,27 +21,32 @@
 
 ### Backend & Runtime
 <p>
-  <a href="https://nestjs.com/"><img src="https://img.icons8.com/color/48/nestjs.png" width="48" height="48" alt="NestJS"/></a>&nbsp;
-  <a href="https://nodejs.org/"><img src="https://img.icons8.com/color/48/nodejs.png" width="48" height="48" alt="Node.js"/></a>&nbsp;
-  <a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/typescript.png" width="48" height="48" alt="TypeScript"/></a>
+  <a href="https://nestjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS"/></a>&nbsp;
+  <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/></a>&nbsp;
+  <a href="https://www.rust-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust"/></a>
 </p>
 
 ### Frontend
 <p>
-  <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/react-native.png" width="48" height="48" alt="React"/></a>&nbsp;
-  <a href="https://nextjs.org/"><img src="https://img.icons8.com/color/48/nextjs.png" width="48" height="48" alt="Next.js"/></a>&nbsp;
-  <a href="https://ui.shadcn.com/"><img src="https://ui.shadcn.com/apple-touch-icon.png" width="48" height="48" alt="shadcn/ui"/></a>
+  <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/></a>&nbsp;
+  <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/></a>&nbsp;
+  <a href="https://ui.shadcn.com/"><img src="https://cdn.simpleicons.org/shadcnui" width="48" height="48" alt="shadcn/ui"/></a>
 </p>
 
 ### AI / ML
 <p>
-  <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/python.png" width="48" height="48" alt="Python"/></a>&nbsp;
-  <a href="https://pytorch.org/"><img src="https://img.icons8.com/fluency/48/pytorch.png" width="48" height="48" alt="PyTorch"/></a>&nbsp;
-  <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face"/></a>&nbsp;
-  <a href="https://colab.research.google.com/"><img src="https://img.icons8.com/color/48/google-colab.png" width="48" height="48" alt="Google Colab"/></a>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/></a>&nbsp;
+  <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/></a>&nbsp;
+  <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface" width="48" height="48" alt="Hugging Face"/></a>&nbsp;
+  <a href="https://colab.research.google.com/"><img src="https://cdn.simpleicons.org/googlecolab" width="48" height="48" alt="Google Colab"/></a>&nbsp;
+  <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas"/></a>&nbsp;
+  <a href="https://scikit-learn.org/"><img src="https://cdn.simpleicons.org/scikitlearn" width="48" height="48" alt="scikit-learn"/></a>&nbsp;
+  <a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain" width="48" height="48" alt="LangChain"/></a>&nbsp;
+  <a href="https://neo4j.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="48" height="48" alt="Neo4j"/></a>
 </p>
 
 ### Automation
 <p>
-  <a href="https://n8n.io/"><img src="https://avatars.githubusercontent.com/u/45487711?s=48" width="48" height="48" alt="n8n"/></a>
+  <a href="https://n8n.io/"><img src="https://cdn.simpleicons.org/n8n" width="48" height="48" alt="n8n"/></a>
 </p>
