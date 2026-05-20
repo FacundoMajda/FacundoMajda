@@ -1,6 +1,6 @@
-# Hey 👋🏽, I'm Facundo Majda
+# Hey 👋🏽, I'm Faq
 
-> Fullstack dev & AI Engineer 
+> Fullstack Developer 
 
 ## 📍 Formosa, Argentina
 
@@ -9,7 +9,11 @@
 
 ## 🚀 What I'm doing now
 
-Building intelligent systems.
+Learning about intelligent systems.
+Building backend applications.
+Improving programming logic
+Writing clean and maintainable code
+Learning better backend practices
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400"/>
 
