@@ -1,82 +1,52 @@
-# Hey 👋🏽, I'm Facundo
+# Hey 👋🏽, I'm Faq
 
-> AI Engineer & Full-Stack Developer  
-> Building AI agents, backend systems, and workflow automation.
+> Fullstack Developer 
 
 ## 📍 Formosa, Argentina
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/facundo-majda/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](http://syllabi.me/facundo_majda_portfolio/)
 
----
-
 ## 🚀 What I'm doing now
 
-- Building AI-powered applications and autonomous agents
-- Designing scalable backend systems and APIs
-- Creating workflow automations with AI integrations
-- Working with LLMs, RAG pipelines, and orchestration systems
-- Writing clean, maintainable, and production-ready software
+- Learning about intelligent systems.
+- Building backend applications.
+- Improving programming logic.
+- Writing clean and maintainable code
+- Learning better backend practices
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="380"/>
-
----
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400"/>
 
 ## 🛠️ Tech Stack
 
-### AI Engineering
-<p align="left">
-  <img src="https://svgl.app/openai.svg" width="42" alt="OpenAI"/>
-  <img src="https://svgl.app/langchain.svg" width="42" alt="LangChain"/>
-  <img src="https://svgl.app/huggingface.svg" width="42" alt="Hugging Face"/>
-  <img src="https://svgl.app/python.svg" width="42" alt="Python"/>
-  <img src="https://svgl.app/pytorch.svg" width="42" alt="PyTorch"/>
-</p>
-
-### Backend
-<p align="left">
-  <img src="https://svgl.app/nestjs.svg" width="42" alt="NestJS"/>
-  <img src="https://svgl.app/nodejs.svg" width="42" alt="Node.js"/>
-  <img src="https://svgl.app/typescript.svg" width="42" alt="TypeScript"/>
-  <img src="https://svgl.app/postgresql.svg" width="42" alt="PostgreSQL"/>
-  <img src="https://svgl.app/rust.svg" width="42" alt="Rust"/>
+### Backend & Runtime
+<p>
+  <a href="https://nestjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS"/></a>&nbsp;
+  <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/></a>&nbsp;
+  <a href="https://www.rust-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust"/></a>
 </p>
 
 ### Frontend
-<p align="left">
-  <img src="https://svgl.app/react.svg" width="42" alt="React"/>
-  <img src="https://svgl.app/nextjs.svg" width="42" alt="Next.js"/>
-  <img src="https://svgl.app/shadcn-ui.svg" width="42" alt="shadcn/ui"/>
+<p>
+  <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/></a>&nbsp;
+  <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/></a>&nbsp;
+  <a href="https://ui.shadcn.com/"><img src="https://cdn.simpleicons.org/shadcnui" width="48" height="48" alt="shadcn/ui"/></a>
 </p>
 
-### Automation & Infra
-<p align="left">
-  <img src="https://svgl.app/n8n.svg" width="42" alt="n8n"/>
-  <img src="https://svgl.app/docker.svg" width="42" alt="Docker"/>
-  <img src="https://svgl.app/supabase.svg" width="42" alt="Supabase"/>
-  <img src="https://svgl.app/vercel.svg" width="42" alt="Vercel"/>
+### AI / ML
+<p>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/></a>&nbsp;
+  <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/></a>&nbsp;
+  <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface" width="48" height="48" alt="Hugging Face"/></a>&nbsp;
+  <a href="https://colab.research.google.com/"><img src="https://cdn.simpleicons.org/googlecolab" width="48" height="48" alt="Google Colab"/></a>&nbsp;
+  <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas"/></a>&nbsp;
+  <a href="https://scikit-learn.org/"><img src="https://cdn.simpleicons.org/scikitlearn" width="48" height="48" alt="scikit-learn"/></a>&nbsp;
+  <a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain" width="48" height="48" alt="LangChain"/></a>&nbsp;
+  <a href="https://neo4j.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="48" height="48" alt="Neo4j"/></a>
 </p>
 
----
-
-## 💡 Focus Areas
-
-- AI Agents
-- LLM Applications
-- RAG Systems
-- Workflow Automation
-- Backend Architecture
-- API Design
-- Clean Architecture
-- AI Integrations
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FacundoMajda&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoMajda&layout=compact&hide_border=true" height="170"/>
+### Automation
+<p>
+  <a href="https://n8n.io/"><img src="https://cdn.simpleicons.org/n8n" width="48" height="48" alt="n8n"/></a>
 </p>
-
----
